@@ -11,7 +11,8 @@ preparaing for Development
 
 usage
 -----
-
+::
+  $ pip isntall boto3
 
 running tests
 -------------
